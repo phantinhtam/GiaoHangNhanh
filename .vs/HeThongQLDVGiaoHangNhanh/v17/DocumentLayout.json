@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|c:\\users\\tinhtam\\fast-delivery-service\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|c:\\users\\tinhtam\\fast-delivery-service\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|solutionrelative:dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|c:\\users\\tinhtam\\fast-delivery-service\\printer\\dataset_fastdelivery.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|solutionrelative:printer\\dataset_fastdelivery.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|c:\\users\\tinhtam\\fast-delivery-service\\printer\\dataset_fastdelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|solutionrelative:printer\\dataset_fastdelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|c:\\users\\tinhtam\\fast-delivery-service\\printer\\crystalreportviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|solutionrelative:printer\\crystalreportviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|c:\\users\\tinhtam\\fast-delivery-service\\personalinformation\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|solutionrelative:personalinformation\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|c:\\users\\tinhtam\\fast-delivery-service\\personalinformation\\changedisplayname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|solutionrelative:personalinformation\\changedisplayname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|c:\\users\\tinhtam\\fast-delivery-service\\managementsystem\\accountmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|solutionrelative:managementsystem\\accountmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|c:\\users\\tinhtam\\fast-delivery-service\\managementsystem\\customermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|solutionrelative:managementsystem\\customermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|c:\\users\\tinhtam\\fast-delivery-service\\managementsystem\\ordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|solutionrelative:managementsystem\\ordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|c:\\users\\tinhtam\\fast-delivery-service\\managementsystem\\shippermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|solutionrelative:managementsystem\\shippermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|c:\\users\\tinhtam\\fast-delivery-service\\personalinformation\\salaryofpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|solutionrelative:personalinformation\\salaryofpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|c:\\users\\tinhtam\\fast-delivery-service\\dal\\connectiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|solutionrelative:dal\\connectiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|c:\\users\\tinhtam\\fast-delivery-service\\dal\\khachhangnhandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|solutionrelative:dal\\khachhangnhandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|c:\\users\\tinhtam\\fast-delivery-service\\dal\\taikhoandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|solutionrelative:dal\\taikhoandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|c:\\users\\tinhtam\\fast-delivery-service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|c:\\users\\tinhtam\\fast-delivery-service\\displayproductinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|solutionrelative:displayproductinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|c:\\users\\tinhtam\\fast-delivery-service\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3075404F-FA11-46CE-883E-5918D320B3E0}|HeThongQLDVGiaoHangNhanh.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataSet_FastDelivery.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\printer\\DataSet_FastDelivery.Designer.cs",
+              "RelativeDocumentMoniker": "printer\\DataSet_FastDelivery.Designer.cs",
+              "ToolTip": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\printer\\DataSet_FastDelivery.Designer.cs",
+              "RelativeToolTip": "printer\\DataSet_FastDelivery.Designer.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAwwD0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:10:32.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataSet_FastDelivery.cs",
+              "DocumentMoniker": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\printer\\DataSet_FastDelivery.cs",
+              "RelativeDocumentMoniker": "printer\\DataSet_FastDelivery.cs",
+              "ToolTip": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\printer\\DataSet_FastDelivery.cs",
+              "RelativeToolTip": "printer\\DataSet_FastDelivery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:10:30.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrystalReportViewer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\printer\\CrystalReportViewer.cs",
+              "RelativeDocumentMoniker": "printer\\CrystalReportViewer.cs",
+              "ToolTip": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\printer\\CrystalReportViewer.cs [Design]",
+              "RelativeToolTip": "printer\\CrystalReportViewer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:10:24.695Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChangeDisplayName.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\personalInformation\\ChangeDisplayName.cs",
+              "RelativeDocumentMoniker": "personalInformation\\ChangeDisplayName.cs",
+              "ToolTip": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\personalInformation\\ChangeDisplayName.cs [Design]",
+              "RelativeToolTip": "personalInformation\\ChangeDisplayName.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:10:15.567Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:55:01.38Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\Dashboard.Designer.cs",
+              "RelativeToolTip": "Dashboard.Designer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwEEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:55:13.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShipperManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\managementSystem\\ShipperManagement.cs",
+              "RelativeDocumentMoniker": "managementSystem\\ShipperManagement.cs",
+              "ToolTip": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\managementSystem\\ShipperManagement.cs [Design]",
+              "RelativeToolTip": "managementSystem\\ShipperManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:09:46.339Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\managementSystem\\OrderManagement.cs",
+              "RelativeDocumentMoniker": "managementSystem\\OrderManagement.cs",
+              "ToolTip": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\managementSystem\\OrderManagement.cs [Design]",
+              "RelativeToolTip": "managementSystem\\OrderManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:11:11.424Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\managementSystem\\CustomerManagement.cs",
+              "RelativeDocumentMoniker": "managementSystem\\CustomerManagement.cs",
+              "ToolTip": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\managementSystem\\CustomerManagement.cs [Design]",
+              "RelativeToolTip": "managementSystem\\CustomerManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:11:07.819Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChangePassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\personalInformation\\ChangePassword.cs",
+              "RelativeDocumentMoniker": "personalInformation\\ChangePassword.cs",
+              "ToolTip": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\personalInformation\\ChangePassword.cs [Design]",
+              "RelativeToolTip": "personalInformation\\ChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:09:36.18Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SalaryOfPersonal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\personalInformation\\SalaryOfPersonal.cs",
+              "RelativeDocumentMoniker": "personalInformation\\SalaryOfPersonal.cs",
+              "ToolTip": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\personalInformation\\SalaryOfPersonal.cs [Design]",
+              "RelativeToolTip": "personalInformation\\SalaryOfPersonal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:09:40.125Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\managementSystem\\AccountManagement.cs",
+              "RelativeDocumentMoniker": "managementSystem\\AccountManagement.cs",
+              "ToolTip": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\managementSystem\\AccountManagement.cs [Design]",
+              "RelativeToolTip": "managementSystem\\AccountManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:11:04.089Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KhachHangNhanDAL.cs",
+              "DocumentMoniker": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\DAL\\KhachHangNhanDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\KhachHangNhanDAL.cs",
+              "ToolTip": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\DAL\\KhachHangNhanDAL.cs",
+              "RelativeToolTip": "DAL\\KhachHangNhanDAL.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwDoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:07:00.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaiKhoanDAL.cs",
+              "DocumentMoniker": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\DAL\\TaiKhoanDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\TaiKhoanDAL.cs",
+              "ToolTip": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\DAL\\TaiKhoanDAL.cs",
+              "RelativeToolTip": "DAL\\TaiKhoanDAL.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:15:32.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:54:54.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConnectionDB.cs",
+              "DocumentMoniker": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\DAL\\ConnectionDB.cs",
+              "RelativeDocumentMoniker": "DAL\\ConnectionDB.cs",
+              "ToolTip": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\DAL\\ConnectionDB.cs",
+              "RelativeToolTip": "DAL\\ConnectionDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:10:06.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DisplayProductInformation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\DisplayProductInformation.cs",
+              "RelativeDocumentMoniker": "DisplayProductInformation.cs",
+              "ToolTip": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\DisplayProductInformation.cs [Design]",
+              "RelativeToolTip": "DisplayProductInformation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:10:53.665Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\TinhTam\\Fast-Delivery-Service\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:10:30.607Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

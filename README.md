@@ -49,4 +49,4 @@ Khi nhân viên giao hàng giao cho khách hàng nhận sẽ ghi nhận lại tr
 ![Thống kế số lượng đơn hàng trong năm](./answer/pic-7.png)
 
 - Hoá đơn
-![Hoá đơn](./answer/bill.png)
+![Hoá đơn](./answer/bill.png)# GiaoHangNhanh
